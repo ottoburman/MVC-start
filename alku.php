@@ -1,5 +1,5 @@
 <?php
-include("models/model1_chat.php");
+include("models/model1_chat.php");// haetaan model1-malli
 include("control_chat.php");
 $ohjain = new Ohjain();
 if (isset($_GET["toiminto"])) {
