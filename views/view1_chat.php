@@ -4,7 +4,7 @@
     <title>Tsätti</title>
   </head>
   <body>
-    <h1>OLIO Tsätti View1</h1>
+    <h1>Tsätti MVC v1.0</h1>
     <h2>Kirjoita uusi viesti ja <br> paina Lähetä-nappia</h2>
     <form action="?toiminto=lahetys" method="post">
      Nimimerkki:<input type="text" name="nimim" maxlength="10" size="10" value = "noname" > <br><br> 
