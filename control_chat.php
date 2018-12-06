@@ -1,6 +1,7 @@
 ﻿<?php
 # Kontrolloi sovellusta:
-# Kolme funktiota Malli Lista Lähetys
+# Luokka Ohjain
+# ja kolme funktiota Malli Lista Lahetys
 class Ohjain {
     private $malli;
     public function __construct() {
